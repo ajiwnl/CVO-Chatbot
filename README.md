@@ -30,4 +30,4 @@ CVO Web Repository Link: ***[Android repo](https://github.com/ajiwnl/CVO-Android
 
 CVO Python Repository Link: ***[Py repo](https://github.com/ajiwnl/CVO-Chatbot)***
 
-![image](https://github.com/user-attachments/assets/d961263c-dbc0-492d-9a58-026cd15d26bc)
+![CVO](https://github.com/user-attachments/assets/6b77854a-c709-4547-8b48-ea837cb69894)
